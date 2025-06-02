@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(52,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(69,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,28): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,28): warning C4305:         with
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,28): warning C4305:         [
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,28): warning C4305:             _Ty=float
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,28): warning C4305:         ]
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,36): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,36): warning C4305:         with
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,36): warning C4305:         [
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,36): warning C4305:             _Ty=float
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,36): warning C4305:         ]
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,45): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,45): warning C4305:         with
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,45): warning C4305:         [
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,45): warning C4305:             _Ty=float
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,45): warning C4305:         ]
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,54): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,54): warning C4305:         with
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,54): warning C4305:         [
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,54): warning C4305:             _Ty=float
+C:\Users\Тимур\source\repos\Radix+Bucket Sorts\Radix+Bucket Sorts\main.cpp(104,54): warning C4305:         ]
+  Radix+Bucket Sorts.vcxproj -> C:\Users\Тимур\source\repos\Radix+Bucket Sorts\x64\Debug\Radix+Bucket Sorts.exe
