@@ -62,18 +62,18 @@ void bubbleSort(vector<float> &a)
 
 void bucketSort(vector<float> &arr) 
 {
-    float min_val = *min_element(arr.begin(), arr.end());
-    float max_val = *max_element(arr.begin(), arr.end());
-    float range = max_val - min_val;
+    float minValue = *min_element(arr.begin(), arr.end());
+    float maxValue = *max_element(arr.begin(), arr.end());
+    float range = maxValue - minValue;
 
     int n = arr.size();
     vector<vector<float>> buckets(n);
 
     for (float num : arr) 
     {
-        float normalized = (num - min_val) / range;
-        int bucket_idx = min(static_cast<int>(normalized * n), n - 1);
-        buckets[bucket_idx].push_back(num);
+        float normalized = (num - minValue) / range;
+        int bucketIndex = min(static_cast<int>(normalized * n), n - 1);
+        buckets[bucketIndex].push_back(num);
     }
 
     for (vector<float> &bucket : buckets) 
